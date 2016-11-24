@@ -3,3 +3,11 @@ How to install and upload source code on Github
 Download and extract this zip in your server root directory
 
 
+<script async src="paypal-button.min.js?merchant=LR8JANPYMXPJ8"
+    data-button="donate"
+    data-type="form"
+    data-name="My donation"
+    data-amount="1.00"
+></script>
+
+
